@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://a.uguu.se/JdgoBrk.jpg" alt="Hinata-Md" width="100"/>
+<img src="https://a.uguu.se/JdgoBrk.jpg" alt="Syenzky-Md" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="HINATA HYUGA" src="https://img.shields.io/badge/HINATA HYUGA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SYENZKY BOT" src="https://img.shields.io/badge/SYENZKT BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/riychdwayne/followers"><img title="Followers" src="https://img.shields.io/github/followers/riychdwayne?color=red&style=flat-square"></a>
