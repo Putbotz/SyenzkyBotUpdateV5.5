@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://a.uguu.se/JdgoBrk.jpg" alt="Syenzky-Md" width="100"/>
+<img src="https://telegra.ph/file/a3ca5c3634da82d076780.jpg" alt="Syenzky-Md" width="100"/>
 
 
 </p>
